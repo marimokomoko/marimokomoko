@@ -1,15 +1,18 @@
-### Hi👋
+### Hi 🦁rz
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+* 📱 I'm mobileApp engineer
+* 🌱 currently learning Android
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=marimokomoko&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=kotlin,ts,js,html,css,jquery," /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,vue,nuxt,nodejs" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=androidstudio,gradle,postgresql,docker,figma,firebase,git,github,vscode,aws" /> <br /><br />
