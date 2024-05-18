@@ -1,8 +1,5 @@
 ### Hi 🦁rz
 
-* 📱 As of 2024, I'm mobileApp engineer
-* 🌱 currently learning Android
-
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=marimokomoko&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 ## 🤍Programming Languages
